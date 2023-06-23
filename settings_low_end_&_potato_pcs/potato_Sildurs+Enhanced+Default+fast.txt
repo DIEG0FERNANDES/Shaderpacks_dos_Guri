@@ -1,0 +1,6 @@
+#Fri Jun 16 21:06:49 AMT 2023
+TAA_sharpness=0.35
+shadowMapResolution=512
+MB_strength=0.008
+POM_DEPTH=0.20
+grays_intensity=0.35
